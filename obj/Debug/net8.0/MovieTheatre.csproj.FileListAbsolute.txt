@@ -1,0 +1,14 @@
+C:\Users\matth\source\repos\MovieTheatre\MovieTheatre\bin\Debug\net8.0\MovieTheatre.exe
+C:\Users\matth\source\repos\MovieTheatre\MovieTheatre\bin\Debug\net8.0\MovieTheatre.deps.json
+C:\Users\matth\source\repos\MovieTheatre\MovieTheatre\bin\Debug\net8.0\MovieTheatre.runtimeconfig.json
+C:\Users\matth\source\repos\MovieTheatre\MovieTheatre\bin\Debug\net8.0\MovieTheatre.dll
+C:\Users\matth\source\repos\MovieTheatre\MovieTheatre\bin\Debug\net8.0\MovieTheatre.pdb
+C:\Users\matth\source\repos\MovieTheatre\MovieTheatre\obj\Debug\net8.0\MovieTheatre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\source\repos\MovieTheatre\MovieTheatre\obj\Debug\net8.0\MovieTheatre.AssemblyInfoInputs.cache
+C:\Users\matth\source\repos\MovieTheatre\MovieTheatre\obj\Debug\net8.0\MovieTheatre.AssemblyInfo.cs
+C:\Users\matth\source\repos\MovieTheatre\MovieTheatre\obj\Debug\net8.0\MovieTheatre.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\MovieTheatre\MovieTheatre\obj\Debug\net8.0\MovieTheatre.dll
+C:\Users\matth\source\repos\MovieTheatre\MovieTheatre\obj\Debug\net8.0\refint\MovieTheatre.dll
+C:\Users\matth\source\repos\MovieTheatre\MovieTheatre\obj\Debug\net8.0\MovieTheatre.pdb
+C:\Users\matth\source\repos\MovieTheatre\MovieTheatre\obj\Debug\net8.0\MovieTheatre.genruntimeconfig.cache
+C:\Users\matth\source\repos\MovieTheatre\MovieTheatre\obj\Debug\net8.0\ref\MovieTheatre.dll
